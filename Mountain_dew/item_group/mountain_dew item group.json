@@ -1,0 +1,33 @@
+[
+  {
+    "id": "mountain_dew",
+    "type": "item_group",
+    "items": [
+      [ "mntdewsurvivor", 20 ],
+      [ "Mtndewelderberry", 20 ],
+      [ "Mtndewcodered", 20 ],
+      [ "Mtndewlivewire", 20 ],
+      [ "Mtndewvoltage", 20 ],
+      [ "Mtndewmajormelon", 20 ],
+      [ "Mtndewspark", 20 ],
+      [ "Mtndewberrymonsoon", 20 ],
+      [ "Mtndewsweetlightning", 20 ],
+      [ "Mtndewmauiburst", 20 ],
+      [ "Mtndewvibe", 20 ],
+      [ "Mtndewuproar", 20 ],
+      [ "Mtndewdarkberrybash", 20 ],
+      [ "Mtndewlegend", 20 ],
+      [ "Mtndewpurplethunder", 20 ],
+      [ "Mtndewpitchblack", 20 ],
+      [ "Mtndewrevolotion", 20 ],
+      [ "Mtndewsupernova", 20 ],
+      [ "Mtndewdewritos", 20 ],
+      [ "Mtndewcakesmash", 20 ],
+      [ "Mtndewflameinhot", 20 ],
+      [ "Mtndewgingerbreadsnapd", 20 ],
+      [ "Mtndewbajablast", 20 ],
+      [ "Mtndewbajamangogem", 20 ],
+      [ "Mtndewbajagold", 20 ]
+    ]
+  }
+]
