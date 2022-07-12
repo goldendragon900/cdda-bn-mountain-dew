@@ -2,6 +2,7 @@
   {
     "id": "mountain_dew",
     "type": "item_group",
+	"subtype": "distribution",
     "items": [
       [ "mntdewsurvivor", 30 ],
       [ "Mtndewelderberry", 30 ],
